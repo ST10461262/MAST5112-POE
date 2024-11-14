@@ -116,3 +116,6 @@ interface HomeScreenProps {
    - Type-safe implementations
 
 These changes fulfill all requirements from the screenshot while maintaining clean code practices and improving the overall application structure.
+[Video 11-14 at 14.09.webm](https://github.com/user-attachments/assets/6794a860-28f2-4562-97f4-5d2fc358a304)
+
+
